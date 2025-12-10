@@ -2,7 +2,7 @@
 #Starter WEb project
 
 This is a simple website project for showing how to use Git and Github together.Adding a line for rebasing.
--> then more changes from myfeature branch too.
+-> then more changes from myfeature branch too.Updating the emergency fixes after the stash.
 ## Introductio
 This example is to show different parts of te Git repository and various commands using a web project.
 
