@@ -11,7 +11,7 @@ As stated above,the  main purpose is to provide simple examples for the git trai
 This can be easilt deployed
 
 #How to Contribute
-
+Please fork this repository and then issue pull Requests.
 #Copyright
 
 Copyright Notice!!
