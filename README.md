@@ -10,5 +10,9 @@ As stated above,the  main purpose is to provide simple examples for the git trai
 #Deployment
 This can be easilt deployed
 
-#How to Cintribute
+#How to Contribute
+
+#Copyright
+
+Copyright Notice!!
 
