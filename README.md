@@ -15,5 +15,5 @@ This can be easily deployed
 Please fork this repository and then issue pull Requests.
 #Copyright
 
-Copyright Notice!!
+Copyright Notice. All rights reserved.
 
